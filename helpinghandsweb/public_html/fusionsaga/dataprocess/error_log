@@ -1,0 +1,5 @@
+[11-Oct-2016 10:59:18 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/fusionsaga/dataprocess/storymeta.php on line 16
+[11-Oct-2016 11:00:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/fusionsaga/dataprocess/storymeta.php on line 8
+[11-Oct-2016 11:00:59 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/fusionsaga/dataprocess/storymeta.php on line 16
+[11-Oct-2016 11:01:08 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/fusionsaga/dataprocess/storymeta.php on line 16
+[11-Oct-2016 11:03:32 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/fusionsaga/dataprocess/storymeta.php on line 16

@@ -1,0 +1,5 @@
+[16-Mar-2017 19:22:00 Etc/GMT] PHP Fatal error:  Class 'createConnection' not found in /home/helpinen/public_html/pay/success.php on line 112
+[17-Mar-2017 00:53:14 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/helpinen/public_html/pay/success.php on line 143
+[17-Mar-2017 00:53:20 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/helpinen/public_html/pay/success.php on line 143
+[17-Mar-2017 01:00:53 Asia/Kolkata] PHP Notice:  Undefined variable: uid in /home/helpinen/public_html/pay/success.php on line 149
+[17-Mar-2017 01:27:48 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/helpinen/public_html/pay/success.php on line 146

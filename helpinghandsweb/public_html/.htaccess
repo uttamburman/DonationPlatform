@@ -1,0 +1,8 @@
+
+
+RewriteEngine On
+RewriteRule ^fusionsaga/(assets|dataprocess|navigate)($|/) - [L]
+
+RewriteRule ^fusionsaga/([a-zA-Z0-9]+)\/(.*) fusionsaga/story.php?story=$1&slug=$2 [NC]
+RewriteRule ^fusionsaga/([a-zA-Z0-9]+)\/(.*)/ fusionsaga/story.php?story=$1&slug=$2 [NC]
+

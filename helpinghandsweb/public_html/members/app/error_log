@@ -1,0 +1,13 @@
+[30-Aug-2016 11:34:33 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 18
+[30-Aug-2016 11:35:32 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 18
+[30-Aug-2016 11:37:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 13
+[30-Aug-2016 11:37:07 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 18
+[30-Aug-2016 11:37:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 14
+[30-Aug-2016 11:37:43 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 19
+[30-Aug-2016 11:42:51 Etc/GMT] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/helpinen/public_html/members/app/verifycheck.php on line 19
+[06-Oct-2017 16:34:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/memberstatuscheck.php on line 8
+[06-Oct-2017 16:34:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/memberstatuscheck.php on line 9
+[05-Dec-2017 13:06:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/memberstatuscheck.php on line 8
+[05-Dec-2017 13:06:13 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/memberstatuscheck.php on line 9
+[05-Dec-2017 13:06:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/logincheck.php on line 8
+[05-Dec-2017 13:06:15 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/helpinen/public_html/members/app/logincheck.php on line 9
