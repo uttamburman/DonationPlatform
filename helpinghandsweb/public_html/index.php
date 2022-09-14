@@ -74,7 +74,7 @@
 
 <link href="stylesheets/sheet.css"  rel="stylesheet"  type="text/css" />
 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCFAKjLFiPSbkOZP-0UCD7ykA4aot3RATI" type="text/javascript"></script>
+
 
 </head>
 
